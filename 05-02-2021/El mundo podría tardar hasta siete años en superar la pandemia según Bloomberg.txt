@@ -1,0 +1,39 @@
+El mundo podría tardar hasta siete años en superar la pandemia según Bloomberg
+
+El científico Anthony Fauci aseguró que se necesitará cobertura de entre 70% y 85% de la población para que todo vuelva a ser como antes
+
+
+¿Cuándo terminará la pandemia? Es la pregunta que se cierne sobre casi todo desde que el covid-19 se apoderó del mundo el año pasado. La respuesta se puede medir en vacunas.
+
+Bloomberg ha creado la mayor base de datos de vacunas contra el covid-19 aplicadas en todo el mundo, con más de 119 millones de dosis administradas. Funcionarios científicos estadounidenses como Anthony Fauci han sugerido que se necesitará una cobertura de entre 70% y 85% de la población para que todo vuelva a la normalidad. El Vaccine Tracker de Bloomberg muestra que algunos países están progresando mucho más rápido que otros, utilizando como objetivo una cobertura de 75% con una vacuna
+
+Israel, el país con la tasa de vacunación más alta del mundo, está encaminado a lograr una cobertura de 75% en solo dos meses. Estados Unidos llegará justo a tiempo para celebrar el Año Nuevo 2022 (aunque Dakota del Norte podría lograrlo seis meses antes que Texas). Dado que las vacunaciones se realizan con mayor rapidez en los países occidentales más ricos que en el resto del mundo, el mundo entero tardará siete años al ritmo actual.
+
+La calculadora de Bloomberg proporciona un panorama en el tiempo, destinado a poner en perspectiva las tasas de vacunación actuales. Utiliza el promedio móvil de vacunaciones más reciente, lo que significa que a medida que aumenten las cifras de vacunación, disminuirá el tiempo necesario para alcanzar el umbral de 75%.
+
+Los cálculos serán volátiles, especialmente en los primeros días de la puesta en marcha, y los números pueden verse distorsionados por interrupciones temporales.
+
+Por ejemplo, la fecha límite de Nueva York se extendió a 17 meses esta semana después de que una tormenta de nieve invernal impidiera que algunas personas se vacunaran (el plazo se redujo nuevamente a 13 meses). Del mismo modo, la tasa de vacunación de Canadá se redujo a la mitad en las últimas semanas tras informes de retrasos en los envíos de vacunas. Según la última tasa de inoculaciones de Canadá, se necesitarían más de 10 años para alcanzar una cobertura de 75%. Eso podría servir como un llamado de atención a los políticos y funcionarios de salud canadienses, pero no significa que el país esté condenado a una década de distanciamiento social. Canadá tiene contratos para comprar más dosis de vacunas por persona que cualquier otro país, y se espera que sus tasas de vacunación aumenten.
+
+Es probable que el ritmo se acelere aún más a medida que haya más vacunas disponibles. Algunos de los centros de fabricación de vacunas más grandes del mundo en India y México recién están comenzando a producir. Los países han contratado más de 8.500 millones de dosis de vacuna a través de más de 100 acuerdos que ha monitoreado Bloomberg. Solo un tercio de los países han iniciado sus campañas de vacunación.
+
+Una defensa colectiva
+
+
+Las vacunas protegen contra el covid-19 a las pocas semanas de ser administradas. Pero si solo unas pocas personas en una comunidad se vacunan, el virus puede continuar propagándose sin control. A medida que más personas se vacunan, grupos de personas comienzan a construir una defensa colectiva contra el virus para que los chispazos aislados sean eliminados y no se propaguen para convertirse en un brote. El concepto se conoce como inmunidad colectiva o “de rebaño”.
+
+En la comunidad científica, existen definiciones contradictorias sobre cuándo se logra la inmunidad de rebaño. ¿Es cuando se protege a suficientes personas que comienza a tener un efecto medible en la velocidad de transmisión? Eso podría comenzar mucho antes de que 75% de las personas hayan sido vacunadas con todas las dosis. Otros lo definen como el punto en que los brotes ya no pueden mantenerse. Por ejemplo, incluso si hay un grupo de casos de sarampión en una comunidad no vacunada, la inmunidad de rebaño evita que se propague por todo el país.
+
+El manejo de los números
+
+
+Las vacunas disponibles en la actualidad requieren dos dosis para la vacunación completa. Nuestros cálculos de cobertura se basan en dos dosis por persona en la población, pero no distinguen entre primera o segunda dosis administrada. Esos desgloses pueden distorsionar las tasas de vacunación diarias y no están disponibles en más de 20% de los países que seguimos.
+
+Una nueva vacuna de Johnson & Johnson mostró recientemente resultados positivos con una sola dosis en un gran ensayo clínico. Si se aprueba, ajustaremos la cantidad de dosis requeridas proporcionalmente a su participación de mercado en cada país.
+
+Las vacunas no han sido autorizadas para su uso en niños (actualmente se están llevando a cabo esos estudios). Nuestra calculadora, como el virus, incluye niños en la población que necesita protección.
+
+Una métrica que la calculadora de Bloomberg no considera es cualquier nivel de inmunidad natural que pueda obtener una persona cuando se recupera del covid-19. Es probable que los lugares más afectados requieran un menor nivel de vacunación para evitar la transmisión generalizada. Si bien hay evidencia de que las personas que se recuperan de una enfermedad conservan cierto nivel de defensas naturales, no está claro cuánta protección se ofrece o cuánto tiempo podría durar. La vacuna se recomienda para personas que se han recuperado de la enfermedad.
+
+La calculadora es la última función del Covid-19 Tracker de Bloomberg. Las proyecciones se actualizan diariamente y se basan en el promedio de vacunas diarias en datos recopilados de 67 países y los estados y territorios de EE.UU. Los países pueden ser excluidos cuando se encuentran en las primeras etapas de vacunación o si entregan actualizaciones poco frecuentes sobre sus cifras de vacunación.
+
